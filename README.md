@@ -1,3 +1,20 @@
+<style>
+.bjimg{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width:100%;
+height:100%;
+min-width: 1000px;
+z-index:-10;
+zoom: 1;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center 0;
+  opacity: 0.3;
+  }
+</style>
 <head>    
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
@@ -9,6 +26,7 @@ MathJax.Hub.Config({
 });
 </script>
 </head>
+<div class="bjimg"></div>
 
 YSY主讲的讨论班的讲义/录像，欢迎交流指正.
 
