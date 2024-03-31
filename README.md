@@ -40,3 +40,10 @@ YSY主讲的讨论班的讲义/录像，欢迎交流指正.
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
+
+<br/>
+[少女祈祷中](https://senyuyangpdelearner.github.io/)
+
+***
+
+<font size="2" color="grey">&copy;SenyuYangPDElearner</font>
