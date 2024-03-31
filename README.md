@@ -8,7 +8,7 @@ height:100%;
 min-width: 1000px;
 z-index:-10;
 zoom: 1;
-  background-image: url(https://upload.thwiki.cc/8/82/%E4%B8%9C%E6%96%B9%E9%A3%8E%E7%A5%9E%E5%BD%95e04b.png);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 0;
