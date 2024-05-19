@@ -28,7 +28,7 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-YSY主讲的讨论班的讲义/录像，欢迎交流指正.
+YSY在東雲研究所主讲的讨论班，欢迎交流指正.
 
 - 2022-2023 fall<br/>
   Fourier变换中的分析 | Analysis relative to Fourier transform<br/>
@@ -39,7 +39,7 @@ YSY主讲的讨论班的讲义/录像，欢迎交流指正.
    [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)&emsp;[Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)&emsp;[AdditionalText](https://www.bilibili.com/read/cv27084665/)
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
-   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Preparing...</font>
+   [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Ongoing...</font>
 
 <br/>
 [少女祈祷中](https://senyuyangpdelearner.github.io/)
