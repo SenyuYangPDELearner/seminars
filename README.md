@@ -42,7 +42,7 @@ YSY在東雲研究所主讲的讨论班，欢迎交流指正.
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Ongoing...</font>
 
 <br/>
-[少女祈祷中](https://senyuyangpdelearner.github.io/)
+[少女祈祷中...](https://senyuyangpdelearner.github.io/)
 
 ***
 
