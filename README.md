@@ -40,9 +40,9 @@ YSY在東雲研究所主讲的讨论班，欢迎交流指正.
 - 2023-2024 spring<br/>
    非线性波方程：能量，几何与色散 | Nonlinear wave equations: energy, geometry and dispersion<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)    <font size="2" color="red">Ongoing...</font>
-- 2023-2024 spring<br/>
+  <br/><br/>
   代数拓扑读书笔记 | Reading note of algebraic topology<br/>
-  [Hodge Theorem](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)
+  [HodgeTheorem](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)
 
 <br/>
 [少女祈祷中...](https://senyuyangpdelearner.github.io/)
