@@ -37,11 +37,11 @@ YSY在東雲研究所主讲的讨论班，欢迎交流指正.
   Fourier分析, Littlewood-Paley分解与非线性PDE | Fourier analysis, Littlewood-Paley decomposition and nonlinear PDEs<br/>
    [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)&emsp;[Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)&emsp;[ExtraNote](https://www.bilibili.com/read/cv27084665/)<br/><br/>
 - 2023-2024 spring<br/><br/>
-   非线性波方程：几何与傅里叶 | Nonlinear wave equations: geometry and Fourier<br/>
+   非线性波方程：几何与频率 | Nonlinear wave equations: geometry and frequency<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)&emsp;Textbook[1](https://web.stanford.edu/~jluk/NWnotes.pdf) [2](http://people.maths.ox.ac.uk/wangq1/Lecture_notes/nonlinear_wave_9.pdf)    <font size="2" color="red">Ongoing...</font>
   <br/><br/>
   代数拓扑读书笔记 | Reading note on algebraic topology<br/>
-  [HodgeTheorem](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)
+  [HodgeThm](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)
 
 <br/>
 [少女祈祷中...](https://senyuyangpdelearner.github.io/)
