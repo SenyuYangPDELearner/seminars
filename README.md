@@ -30,16 +30,22 @@ MathJax.Hub.Config({
 
 YSY在東雲研究所的讨论班讲义以及一些杂项资料，欢迎交流指正.
 
-- 2023-2024 spring<br/><br/>
+- 2023-2024 spring<br/>
+
    非线性波的色散：几何与频率 | Dispersion of nonlinear waves: geometry and frequency<br/>
    [Notice](https://raw.githubusercontent.com/SenyuYangPDELearner/SenyuYangPDELearner.github.io/main/images/WHU2024seminar.pdf)&emsp;Textbook[1](https://web.stanford.edu/~jluk/NWnotes.pdf)&[2](http://people.maths.ox.ac.uk/wangq1/Lecture_notes/nonlinear_wave_9.pdf)&emsp;<font size="2" color="red">Ongoing...</font>
-  <br/><br/>
+  <br/>
+  
   代数拓扑读书笔记 | Reading note on algebraic topology<br/>
-  [HodgeThm](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)<br/><br/>
-- 2022-2023 summer<br/><br/>
+  [HodgeThm](https://raw.github.com/SenyuYangPDELearner/seminars/main/AT note.pdf)<br/>
+  
+- 2022-2023 summer<br/>
+
   Fourier分析, Littlewood-Paley分解与非线性PDE | Fourier analysis, Littlewood-Paley decomposition and nonlinear PDEs<br/>
-   [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)&emsp;[Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)&emsp;[ExtraNote](https://www.bilibili.com/read/cv27084665/)<br/><br/>
-- 2022-2023 fall<br/><br/>
+   [Textbook](https://perso.math.u-pem.fr/danchin.raphael/cours/courschine.pdf)&emsp;[Vedio](https://space.bilibili.com/693415657/channel/collectiondetail?sid=1755542)&emsp;[ExtraNote](https://www.bilibili.com/read/cv27084665/)<br/>
+   
+- 2022-2023 fall<br/>
+
   Fourier变换中的分析 | Analysis relative to Fourier transform<br/>
   [Notes](https://maths.whu.edu.cn/__local/8/3A/29/E666F656D3A1BB0F6CC873EAA90_780F196C_17408F.pdf)
 
