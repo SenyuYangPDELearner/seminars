@@ -28,7 +28,7 @@ MathJax.Hub.Config({
 </head>
 <div class="bjimg"></div>
 
-YSY在東雲研究所的讨论班讲义与一些杂项资料，欢迎交流指正.
+YSY在東雲研究所的讨论班讲义以及一些杂项资料，欢迎交流指正.
 
 - 2023-2024 spring<br/><br/>
    非线性波的色散：几何与频率 | Dispersion of nonlinear waves: geometry and frequency<br/>
