@@ -49,9 +49,6 @@ YSY在東雲研究所的讨论班讲义以及一些杂项资料，欢迎交流�
   Fourier变换中的分析 | Analysis relative to Fourier transform<br/>
   [Notes](https://maths.whu.edu.cn/__local/8/3A/29/E666F656D3A1BB0F6CC873EAA90_780F196C_17408F.pdf)
 
-<br/>
-[少女祈祷中...](https://senyuyangpdelearner.github.io/)
+<hr style="height:1px">
 
-***
-
-<font size="2" color="grey">&copy;SenyuYangPDElearner</font>
+&copy; Senyu Yang&emsp;&emsp;&emsp;<a href="." target="_self" >少女祈祷中...</a>
