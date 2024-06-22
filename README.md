@@ -51,4 +51,4 @@ YSY在東雲研究所的讨论班讲义以及一些杂项资料，欢迎交流�
 
 <hr style="height:1px">
 
-&copy; Senyu Yang&emsp;&emsp;&emsp;<a href="https://senyuyangpdelearner.github.io" target="_self" >少女祈祷中...</a>
+&copy; Senyu Yang&emsp;<a href="https://senyuyangpdelearner.github.io" target="_self" >少女祈祷中...</a>
